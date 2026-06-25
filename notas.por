@@ -1,4 +1,4 @@
-//nome completo: [aluno aqui]
+//nome completo: Khaue lopes de souza
 /*
  * Objeivo compra programa:
  * Consolar as notas de uma turma de 5 alunos utilizando vetore.
